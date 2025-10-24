@@ -7,5 +7,9 @@ Welcomme1 to the project! Please follow the instructions below to get started:
    git clone <repository-url>
    ```
 
-
 2. **Delete**
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
